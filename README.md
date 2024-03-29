@@ -1,4 +1,4 @@
-# plant_resistance_gene_fetcher
+# plant-resistance-gene-fetcher
 i coded this a custom function to fetch the dna and the  protein sequence from the plant resistance  gene database and get the corresponding dna_sequence  and the protein_sequence. a custom function to fetch the dna and the protein sequence from the plant resistance gene database and get the corresponding dna_sequence and the protein_sequence. provided a plant resistance gene id it uses the javascript fetcher to access the plant resistance gene database and gives you the dna_sequence or the protein sequence as desired in the arg_type, which is a keyworded argument. id = plant resistance gene database id arg_type = dna or protein.
 
 ```
@@ -8,8 +8,8 @@ prgdbSequencefetcher(138, arg_type="protein_sequence")
 '"MAYAAVTSLMRTIHQSMELTGCDLQPFYEKLKSLRAILEKSCNIMGDHEGLTILEVEIIEVAYTTEDMVDSESRNVFLARNVGKRSRAMWGIFFVLEQALECIDSTVKQWMATSDSMKDLKPQTSSLVSLPEHDVEQPENIMVGRENEFEMMLDQLARGGRELEVVSIVGMGGIGKTTLAAKLYSDPYIMSRFDIRAKATVSQEYCVRNVLLGLLSLTSDEPDYQLADQLQKHLKGRRYLVVIDDIWTTEAWDDIKLCFPDCDNGSRILLTTRNVEVAEYASSGKPPHHMRLMNFDESWNLLHKKIFEKEGSYSPEFENIGKQIALKCGGLPLAITLIAGLLSKISKTLDEWQNVAENVRSVVSTDLEAKCMRVLALSYHHLPSHLKPCFLYFAIFAEDERIYVNKLVELWAVEGFLNEEEGKSIEEVAETCINELVDRSLISIHNVSFDGETQRCGMHDVTRELCLREARNMNFVNVIRGKSDQNSCAQSMQCSFKSRSRISIHNEEELVWCRNSEAHSIITLCIFKCVTLELSFKLVRVLDLGLTTCPIFPSGVLSLIHLRYLSLRFNPRLQQYRGSKEAVPSSIIDIPLSISSLCYLQTFKLYHPFPNCYPFILPSEILTMPQLRKLCMGWNYLRSHEPTENRLVLKSLQCLNELNPRYCTGSFLRLFPNLKKLEVFGVKEDFRNHKDLYDFRYLYQLEKLAFSTYYSSSACFLKNTAPLGSTPQDPLRFQMETLHLETHSRATAPPTDVPTFLLPPPDCFPQNLKSLTFSGDFFLAWKDLSIVGKLPKLEVLQLSHNAFKGEEWEVVEEGFPHLKFLFLDSIYIRYWRASSDHFPYLERLFLSDCFYLDSIPRDFADITTLALIDIFRCQQSVGNSAKQIQQDIQDNYGSSIEVHTRYLYRNGAFLVV"'
 ```
 Gaurav Sablok \
-ORCID: https://orcid.org/0000-0002-4157-9405 \
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
-RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
-Python Packages Published : https://pypi.org/user/sablokgaurav/
-
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany 
